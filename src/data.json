@@ -1,0 +1,22 @@
+{
+  "grades": [
+    {
+      "name": "Grade 6",
+      "subjects": [
+        {
+          "name": "Physics",
+          "chapters": [
+            { "name": "Motion", "topics": ["Speed", "Velocity", "Acceleration"] },
+            { "name": "Force", "topics": ["Friction", "Gravity", "Magnetism"] }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "chapters": [
+            { "name": "Atoms", "topics": ["Protons", "Neutrons", "Electrons"] }
+          ]
+        }
+      ]
+    }
+  ]
+}
